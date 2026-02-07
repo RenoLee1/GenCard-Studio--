@@ -25,13 +25,8 @@
 
 | **贪吃蛇游戏 (Embed 组件)** | **iOS 风格计算器 (CSS Grid)** |
 |:---:|:---:|
-| ![Snake Game](./screenshots/snake.png) | ![Calculator](./screenshots/calculator.png) |
+| ![Snake Game](https://github.com/user-attachments/assets/dd015d76-d44b-4ed3-bf2a-b025736d8558) | ![Calculator](https://github.com/user-attachments/assets/04310370-e0ed-4d9c-9e92-f035468d17ce) |
 | *提示词: "生成一个可玩的贪吃蛇..."* | *提示词: "生成一个iOS风格的计算器..."* |
-
-| **上下文修改模式** | **UI 组件示例** |
-|:---:|:---:|
-| ![Modification Mode](./screenshots/modify.png) | ![Clock Component](./screenshots/clock.png) |
-| *用户: "把背景改成深蓝色"* | *标准 Formily 组件渲染* |
 
 ## 🛠️ 技术栈
 
